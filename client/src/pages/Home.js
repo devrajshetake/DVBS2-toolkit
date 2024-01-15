@@ -114,7 +114,7 @@ function Home() {
         <Container fluid style={{ height: '100vh' }}>
             <Row style={{ height: "80px", backgroundColor: "#282828", color: "#ffffff" }} >
                 <Col xs={10}>
-                    <h1>DVB-S2 Parser</h1>
+                    <h1>DVB-S2 Parser (CI-CD using jenkins)</h1>
                 </Col>
                 <Col className='ms-auto'>
                     <img src={sih_logo} alt="no preview" style={{ height: '60px', width: 'auto' }} />
